@@ -32,6 +32,6 @@ python livraria.py
 ## ✒️ Autor
 
 **Miqueias Eduardo**  
-🔗  GitHub: https://github.com/miqueias-eduardo/sistema-livraria-terminal
+🔗  GitHub: https://github.com/miqueias-eduardo/
 
 
